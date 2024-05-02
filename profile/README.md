@@ -9,10 +9,9 @@
 
 </div>
 
-## Hi there 👋 Welcome to the Solace Labs! 
+## Hi there 👋 Welcome to the Solace Services Repo! 
 
-Solace Labs offers a list of community supported, open source projects. You can use these projects to integrate with, and use, Solace PubSub+ products.
-
+Solace Services offer repositories for Solace services and training projects.
 
 **To get started:**
 
