@@ -9,9 +9,9 @@
 
 </div>
 
-## Welcome to the Solace Services Github Organization! 
+## Welcome to the SolaceServices Github Organization! 
 
-Solace Services offer repositories for Solace services and training projects.
+SolaceServices offer repositories for Solace services and training projects.
 
 **To get started:**
 
